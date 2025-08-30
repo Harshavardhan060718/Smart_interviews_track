@@ -46,5 +46,11 @@ int main() {
     return 0;
 }
 
+30-08-25 
+Today i have leanrd like solved some basic questions but again i remebered how to initialize 2d matrixes using vectors like 
+-> vector<vector<int>> matrix(n,vector<int>(m));
+and oone more converting the result into long like 
+-> 1LL*result some thing it will be converting int to long long if the int datatype falls under constratiants 
+
 
 
