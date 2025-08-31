@@ -53,4 +53,26 @@ and oone more converting the result into long like
 -> 1LL*result some thing it will be converting int to long long if the int datatype falls under constratiants 
 
 
+31-08-25 
+So Today i have learned some important points in c++ thats basicvally till now i used them very rare but we have to use them to look our cpode more preofessional and pro way and followeed by i alsoved some problems today around 5+ i think and one leet code problem 
+
+yeah so coming to this today i learned one of the important key word wait i dont have an clarity wheather it is an key word or not basically key words are pre defined wrods that we cant able to change and we cant able to use them as variable names we have to use them to just implemnt in our code to get solve our problem or task 
+
+-> Auto (auto) this i have leanred just few mintues back hmm and now the time is around 9:11 pm yeah just few minutes back i have learned this 
+So what i leanred means 
+-> (auto) this lets compiler to to declare the type of variable based on the data or values we are assigning 
+simply auto x = 12; in the sensee the compiler will understand and it makes the x data type as interger beacuse it knows that 12 is an integer so it assigns th e type to integr 
+and 
+->Types of auto we will use in loops 
+1, for(const auto val:values) val+=10;
+Here in this we can compile the val like cout<<val but we cant able to modify the values like above we mentioned lie val+=10; lie this 
+2, for(auto val:values) val+=10;
+now we can compile and modifies but the original array vector will not effetct mean will not modify 
+3, for(auto& val:values) val+=10;
+Npw you can compiles and also modifes and now the original vector will also get modified 
+
+
+
+
+
 
